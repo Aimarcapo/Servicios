@@ -31,3 +31,38 @@ google-services.json
 
 # Android Profiling
 *.hprof
+/FibonacciThread/target/
+/MultiThread/Exercise2/target/
+/Filosofo/target/
+/Multiprocessing-Java/1.Exercise/target/
+/Ejercicio1/target/
+/MultiThread/Exercise1/nbproject/private/
+/Prueba/Multithread/Exercise2/nbproject/private/
+/Prueba/Multithread/Filosofo/nbproject/private/
+/Prueba/Multithread/Parking/nbproject/private/
+/Azterketa/Azterketa/nbproject/private/
+/Network Communications/TCPExample/nbproject/private/
+/Network Communications/Prueba/nbproject/private/
+/Network Communications/3Clients/nbproject/private/
+/Network Communications/ClientNumbers/nbproject/private/
+/AzterketaAriketa/nbproject/private/
+/Azterketa2Ariketa/nbproject/private/
+/AzterketaAriketa 2/AzterketaAriketa/dist/
+/Network Communications/Multithreading/GuessNumberClientServer/nbproject/private/
+/Network Communications/UDP/Exercise3/nbproject/private/
+/Network Communications/UDP/Exercise4/nbproject/private/
+/Network Communications/UDP/Exercise5/nbproject/private/
+/Network Communications/Explain/TCP/nbproject/private/
+/Network Communications/Explain/UDP/nbproject/private/
+/Network Communications/PracticaParaExamen/TCP/Exercise1/nbproject/private/
+/Network Communications/PracticaParaExamen/TCP/Exercise2/nbproject/private/
+/Network Communications/PracticaParaExamen/TCP/Exercise3/nbproject/private/
+/Network Communications/PracticaParaExamen/TCP/Testeo/nbproject/private/
+/Network Communications/Multithreading/Triangle/nbproject/private/
+/Network Communications/Multithreading/Questions/nbproject/private/
+/Network Communications/Multithreading/MultipleChoice/nbproject/private/
+/Network Communications/Multithreading/TCP/Questions/nbproject/private/
+/Network Communications/Multithreading/TCP/GuessNumberClientServer/nbproject/private/
+/Network Communications/TCP/Exercise5/nbproject/private/
+/Network Communications/Azterketa/UDP/nbproject/private/
+/Network Communications/Azterketa/TCP/nbproject/private/
